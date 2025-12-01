@@ -1,0 +1,184 @@
+{
+  "version": 1,
+  "base_track": "Ironic",
+  "base_artist": "REMZEE",
+  "createdAt": "2025-12-01T11:51:23.421782Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Ironic",
+      "artist": "Alanis Morissette",
+      "has_synced": true,
+      "path": "select/01_Ironic_Alanis_Morissette.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Ironic",
+      "artist": "Alanis Morissette",
+      "has_synced": true,
+      "path": "select/02_Ironic_Alanis_Morissette.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Ironic",
+      "artist": "Alanis Morissette",
+      "has_synced": true,
+      "path": "select/03_Ironic_Alanis_Morissette.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Ironic (Acoustic Version)",
+      "artist": "Alanis Morissette",
+      "has_synced": true,
+      "path": "select/04_Ironic_(Acoustic_Version)_Alanis_Morissette.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Ironic - Live at Subterranea, London 09/28/95",
+      "artist": "Alanis Morissette",
+      "has_synced": true,
+      "path": "select/05_Ironic_-_Live_at_Subterranea,_London_09_28_95_Alanis_Morissette.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Ironic",
+      "artist": "Alanis Morissette",
+      "has_synced": true,
+      "path": "select/06_Ironic_Alanis_Morissette.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Ironic",
+      "artist": "Alanis Morissette",
+      "has_synced": true,
+      "path": "select/07_Ironic_Alanis_Morissette.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Ironic",
+      "artist": "Alanis Morissette",
+      "has_synced": true,
+      "path": "select/08_Ironic_Alanis_Morissette.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Ironic - Acoustic",
+      "artist": "Alanis Morissette",
+      "has_synced": true,
+      "path": "select/09_Ironic_-_Acoustic_Alanis_Morissette.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Ironic (Acoustic)",
+      "artist": "Alanis Morissette",
+      "has_synced": false,
+      "path": "select/10_Ironic_(Acoustic)_Alanis_Morissette.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Ironic - Live",
+      "artist": "Alanis Morissette",
+      "has_synced": true,
+      "path": "select/11_Ironic_-_Live_Alanis_Morissette.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Ironic (Live)",
+      "artist": "Alanis Morissette",
+      "has_synced": true,
+      "path": "select/12_Ironic_(Live)_Alanis_Morissette.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "ironic - live in berlin",
+      "artist": "Alanis Morissette",
+      "has_synced": true,
+      "path": "select/13_ironic_-_live_in_berlin_Alanis_Morissette.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Ironic",
+      "artist": "Bo Burnham",
+      "has_synced": false,
+      "path": "select/14_Ironic_Bo_Burnham.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Ironic - 2015 Remaster",
+      "artist": "Alanis Morissette",
+      "has_synced": true,
+      "path": "select/15_Ironic_-_2015_Remaster_Alanis_Morissette.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Ironic (2015 Remastered)",
+      "artist": "Alanis Morissette",
+      "has_synced": true,
+      "path": "select/16_Ironic_(2015_Remastered)_Alanis_Morissette.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Ironic",
+      "artist": "Scala & Kolacny Brothers",
+      "has_synced": true,
+      "path": "select/17_Ironic_Scala_&_Kolacny_Brothers.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Ironic (2015 Remastered)",
+      "artist": "Alanis Morissette",
+      "has_synced": false,
+      "path": "select/pl_01_Ironic_(2015_Remastered)_Alanis_Morissette.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "ironic",
+      "artist": "Alanis Morissette",
+      "has_synced": false,
+      "path": "select/pl_02_ironic_Alanis_Morissette.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "Ironic (iTunes Originals Version)",
+      "artist": "Alanis Morissette",
+      "has_synced": false,
+      "path": "select/pl_03_Ironic_(iTunes_Originals_Version)_Alanis_Morissette.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "Ironic Blue",
+      "artist": "Alanis Morissette",
+      "has_synced": false,
+      "path": "select/pl_04_Ironic_Blue_Alanis_Morissette.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "Ironic Blue",
+      "artist": "Alanis Morissette",
+      "has_synced": false,
+      "path": "select/pl_05_Ironic_Blue_Alanis_Morissette.txt"
+    }
+  ]
+}
